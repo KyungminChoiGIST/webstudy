@@ -1,3 +1,10 @@
-developer {
+
+
+#body-banner-main {
+  src :'img/image/army_result.png';
+  alt :'army_result';
+}
+
+#devel {
   font-size: 100px;
 }
