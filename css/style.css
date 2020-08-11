@@ -1,8 +1,7 @@
 
-
-#body-banner-main {
-  src :'img/image/army_result.png';
-  alt :'army_result';
+img {
+  height : 400px;
+  width : 400px;
 }
 
 #devel {
